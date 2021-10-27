@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/frederic--lang/" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.67427410.2136881498.1622468448-1573002918.1622468448" alt="https://www.linkedin.com/in/frederic--lang/" height="30" width="30" />   </a>
- <a href="https://twitter.com/FrdricLang4" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.255644619.2136881498.1622468448-1573002918.1622468448" alt="https://twitter.com/Fredestrik" height="30" width="30"/>   </a>
+ <a href="https://twitter.com/Fredestrik" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.255644619.2136881498.1622468448-1573002918.1622468448" alt="https://twitter.com/Fredestrik" height="30" width="30"/>   </a>
  </br>
 <p align="center">
   <a href="mailto:frederic.ln.lang@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="30" width="80" /> 
