@@ -1,6 +1,6 @@
 <h1 align="center">  Hello 👋 World! </h1>
 
-<h2 align="center">Welcome to my GitHub I'm Fred, React developer living in France</h2>
+<h3 align="center">Welcome to my GitHub I'm Fred, React developer living in France</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/frederic--lang/" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_32x32.png?_ga=2.67427410.2136881498.1622468448-1573002918.1622468448" alt="https://www.linkedin.com/in/frederic--lang/" height="30" width="30" />   </a>
@@ -11,14 +11,13 @@
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=freddy-turtle&label=Profile%20views&color=0e75b6&style=flat" alt="freddy-turtle" />
+ <a href="https://twitter.com/Fredestrik" target="blank"><img src="https://img.shields.io/twitter/follow/Fredestrik?logo=twitter&style=for-the-badge" alt="Fredestrik" /></a> </p>
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=freddy-turtle&label=Profile%20views&color=0e75b6&style=flat" alt="freddy-turtle" /> </p>
-<p align="right"> <a href="https://twitter.com/Fredestrik" target="blank"><img src="https://img.shields.io/twitter/follow/Fredestrik?logo=twitter&style=for-the-badge" alt="Fredestrik" /></a> </p>
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -52,12 +51,13 @@
 <a href="https://image-recognition.vercel.app"><h3>Image Recognition 🏞</h3></a>
 
 
-<h2>Some other projects :</h2>
+<h3>Some other projects :</h3>
+
 - a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
 - a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
 - a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
 
-
+<br/><br/>
 ---
 
 
