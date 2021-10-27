@@ -39,6 +39,13 @@
 
 <a href="https://silly-hawking-1e1643.netlify.app/"><h3>🔗 Trivia Game  🎯</h3></a>
 
+
+- I am a JavaScript Developer living in Paris. I use mainly React.js inside my pages but I still use others libraries. For instance, this [mini-snake](https://snake-azure.vercel.app/) game developped with p5.jS
+- a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
+- a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
+- a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
+
+
 ---
 
 
@@ -49,15 +56,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddy-turtle&show_icons=true&locale=en&layout=compact" alt="freddy-turtle" /></p>
 
-### Hi there 👋
-
-I am a JavaScript Developer living in Paris. I use mainly React.js inside my pages but I still use others libraries. For instance, this [mini-snake](https://snake-azure.vercel.app/) game developped with p5.jS
-
-
-- 👯 I’m looking to collaborate as a fullstack or frontend Developer. Some Projects I also develop as side projects :
-  - a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
-  - a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
-  - a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
 
 - 💬 Ask me about JavaScript & TypeScript
-- 📫 How to reach me: Twitter @Fredestrik
