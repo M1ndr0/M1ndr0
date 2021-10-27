@@ -36,14 +36,18 @@
 
 <a href="https://snake-azure.vercel.app/"><h3>Snake Game 🐍 </h3></a>
 
-![imdb](https://imdb-explore.vercel.app/assets/logo.png){:height="120px" width="120px"}
+
 <a href="https://imdb-explore.vercel.app"><h3>IMDB Movie Finder 📽</h3></a>
+
 
 <a href="https://tod0-list.vercel.app/"><h3>ToDo List ✓</h3></a>
 
+
 <a href="https://tictactoe-smoky.vercel.app"><h3>TicTacToe ♦️</h3></a>
 
+
 <a href="https://sunder-template.frederic-ln-lang.workers.dev"><h3>Weather Watcher 🌦</h3></a>
+
 
 <a href="https://image-recognition.vercel.app"><h3>Image Recognition 🏞</h3></a>
 
