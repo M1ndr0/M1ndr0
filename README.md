@@ -37,10 +37,9 @@
 <a href="https://snake-azure.vercel.app/"><h3>Snake Game 🐍 </h3></a>
 
 
-<a href="https://silly-hawking-1e1643.netlify.app/"><h3>🔗 Trivia Game  🎯</h3></a>
+<a href="https://tod0-list.vercel.app/"><h3>ToDo List ✓</h3></a>
 
-
-- I am a JavaScript Developer living in Paris. I use mainly React.js inside my pages but I still use others libraries. For instance, this [mini-snake]() game developped with p5.jS
+<h2>Some other projects :</h2>
 - a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
 - a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
 - a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
