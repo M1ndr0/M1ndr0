@@ -60,7 +60,7 @@ a basic starter for authentification with React : [repo](https://github.com/Fred
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddy-turtle&show_icons=true&locale=en" alt="freddy-turtle" /></p> </br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddy-turtle&show_icons=true&locale=en" alt="freddy-turtle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddy-turtle&" alt="freddy-turtle" /></p>
 
