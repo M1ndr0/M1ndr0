@@ -31,16 +31,16 @@
 
 
 
-<h2>Check Out 🔎 My Deployed Group 🎓 Projects:</h2>
+<h2>Check Out 🔎 My Deployed 🚕 Projects:</h2>
 
 
-<a href="https://berookie.netlify.app/"><h3>🔗 Rookie 🤸‍♀️ </h3></a>
+<a href="https://snake-azure.vercel.app/"><h3>Snake Game 🐍 </h3></a>
 
 
 <a href="https://silly-hawking-1e1643.netlify.app/"><h3>🔗 Trivia Game  🎯</h3></a>
 
 
-- I am a JavaScript Developer living in Paris. I use mainly React.js inside my pages but I still use others libraries. For instance, this [mini-snake](https://snake-azure.vercel.app/) game developped with p5.jS
+- I am a JavaScript Developer living in Paris. I use mainly React.js inside my pages but I still use others libraries. For instance, this [mini-snake]() game developped with p5.jS
 - a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
 - a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
 - a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
