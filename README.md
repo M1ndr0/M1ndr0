@@ -51,22 +51,20 @@
 <a href="https://image-recognition.vercel.app"><h3>Image Recognition 🏞</h3></a>
 
 
-<h3>Some other projects :</h3>
+<h3>*Some other projects :*</h3>
 
-- a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
-- a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
-- a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
+a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/) / a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/) / a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
 
 <br/><br/>
 ---
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=freddy-turtle&show_icons=true&locale=en" alt="freddy-turtle" /></p> </br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddy-turtle&show_icons=true&locale=en" alt="freddy-turtle" /></p> </br>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=freddy-turtle&" alt="freddy-turtle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddy-turtle&" alt="freddy-turtle" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddy-turtle&show_icons=true&locale=en&layout=compact" alt="freddy-turtle" /></p>
 
 
-- 💬 Ask me about JavaScript & TypeScript
+<p align="center">💬 Ask me about JavaScript & TypeScript</p>
