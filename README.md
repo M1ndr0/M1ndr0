@@ -39,6 +39,8 @@
 
 <a href="https://tod0-list.vercel.app/"><h3>ToDo List ✓</h3></a>
 
+![todo](https://drive.google.com/file/d/1hROlIWHdDhZHUJlJt3O1ob-PdPy70Rgr/view?usp=sharing)
+
 <h2>Some other projects :</h2>
 - a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/)
 - a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/)
