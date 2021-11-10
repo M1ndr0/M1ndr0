@@ -36,7 +36,7 @@
 <a href="https://snake-azure.vercel.app/"><h3>Snake Game 🐍 </h3></a>
 
 
-<a href="https://imdb-explore.vercel.app"><h3>IMDB Movie Finder 📽</h3></a>
+<a href="https://omdb-explore.vercel.app/"><h3>Open Movie Database Finder 📽</h3></a>
 
 
 <a href="https://tod0-list.vercel.app/"><h3>ToDo List ✓</h3></a>
