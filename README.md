@@ -60,11 +60,11 @@ a basic starter for authentification with React : [repo](https://github.com/Fred
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddy-turtle&show_icons=true&locale=en" alt="freddy-turtle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredlnl&show_icons=true&locale=en" alt="fredlnl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddy-turtle&" alt="freddy-turtle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredlnl&" alt="fredlnl" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddy-turtle&show_icons=true&locale=en&layout=compact" alt="freddy-turtle" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredlnle&show_icons=true&locale=en&layout=compact" alt="fredlnl" /></p>
 
 
 <p align="center">💬 Ask me about JavaScript & TypeScript</p>
