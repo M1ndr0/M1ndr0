@@ -64,7 +64,7 @@ a basic starter for authentification with React : [repo](https://github.com/Fred
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredlnl&" alt="fredlnl" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredlnle&show_icons=true&locale=en&layout=compact" alt="fredlnl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredlnl&show_icons=true&locale=en&layout=compact" alt="fredlnl" /></p>
 
 
 <p align="center">💬 Ask me about JavaScript & TypeScript</p>
