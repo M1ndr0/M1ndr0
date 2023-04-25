@@ -1,6 +1,6 @@
 <h1 align="center">  Hello 👋 World! </h1>
 
-<h3 align="center">Welcome to my GitHub I'm Fredlnl, FE developer living in France</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
 <p align="center">
  <a href="https://twitter.com/Fredestrik" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.255644619.2136881498.1622468448-1573002918.1622468448" alt="https://twitter.com/Fredestrik" height="30" width="30"/>   </a>
