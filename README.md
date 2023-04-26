@@ -16,7 +16,7 @@
 <h2>Check Out 🔎 My Deployed 🚕 Projects:</h2>
 
 
-<a href="https://snake-azure.vercel.app/"><h3>Snake Game 🐍 </h3></a>
+<h3>[Snake Game 🐍](https://snake-azure.vercel.app/)</h3>
 
 
 <a href="https://omdb-explore.vercel.app/"><h3>Open Movie Database Finder 📽</h3></a>
