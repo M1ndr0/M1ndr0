@@ -1,47 +1,24 @@
-<!--
-<h1 align="center">  Hello 👋 World! </h1>
+# Hello 👋 World!
 
+Welcome to my GitHub
 
-<h3 align="center">Welcome to my GitHub</h3>
--->
-<p align="center">
- <a href="https://twitter.com/Fredestrik" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.255644619.2136881498.1622468448-1573002918.1622468448" alt="https://twitter.com/Fredestrik" height="30" width="30"/>   </a>
- </br>
+## Check Out 🔎 My Deployed 🚕 Projects:
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=freddy-turtle&label=Profile%20views&color=0e75b6&style=flat" alt="freddy-turtle" />
- <a href="https://twitter.com/Fredestrik" target="blank"><img src="https://img.shields.io/twitter/follow/Fredestrik?logo=twitter&style=for-the-badge" alt="Fredestrik" /></a> </p>
+ - **[Snake Game 🐍](https://snake-azure.vercel.app/)**
+ - **[Open Movie Database Finder 📽](https://omdb-explore.vercel.app/)**
+ - **[ToDo List ✓](https://tod0-list.vercel.app/)**
+ - **[TicTacToe ♦️](https://tictactoe-smoky.vercel.app)**
+ - **[Weather Watcher 🌦](https://sunder-template.frederic-ln-lang.workers.dev)**
+ - **[Image Recognition 🏞](https://image-recognition.vercel.app)**
 
-
-<h2>Check Out 🔎 My Deployed 🚕 Projects:</h2>
-
-
-<h3>[Snake Game 🐍](https://snake-azure.vercel.app/)</h3>
-
-
-<a href="https://omdb-explore.vercel.app/"><h3>Open Movie Database Finder 📽</h3></a>
-
-
-<a href="https://tod0-list.vercel.app/"><h3>ToDo List ✓</h3></a>
-
-
-<a href="https://tictactoe-smoky.vercel.app"><h3>TicTacToe ♦️</h3></a>
-
-
-<a href="https://sunder-template.frederic-ln-lang.workers.dev"><h3>Weather Watcher 🌦</h3></a>
-
-
-<a href="https://image-recognition.vercel.app"><h3>Image Recognition 🏞</h3></a>
-
-
-<h3><u>Some other projects :</u></h3>
+### Some other projects :
 
 a basic starter for authentification with React : [repo](https://github.com/Fredestrik/Next-BasicAuth-Starter) - [url](https://next-basicauth-starter.vercel.app/) / a starter for an SQL powered app : [repo](https://github.com/Fredestrik/Next.Js-SQL-app) - [url](https://nextjs-sql-app.vercel.app/) / a travelling app to see some pictures of trips : [repo](https://github.com/Fredestrik/jacar-frontend) - [url](https://jacar-frontend.vercel.app/)
 
-<br/><br/>
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools:
+
 <p align="center"> 
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -61,5 +38,13 @@ a basic starter for authentification with React : [repo](https://github.com/Fred
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredlnl&show_icons=true&locale=en&layout=compact" alt="fredlnl" /></p>
 -->
 
+ 
+<p align="center">
+ <a href="https://twitter.com/Fredestrik" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_32x32.png?_ga=2.255644619.2136881498.1622468448-1573002918.1622468448" alt="https://twitter.com/Fredestrik" height="30" width="30"/>   </a>
+ </br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=freddy-turtle&label=Profile%20views&color=0e75b6&style=flat" alt="freddy-turtle" />
+ <a href="https://twitter.com/Fredestrik" target="blank"><img src="https://img.shields.io/twitter/follow/Fredestrik?logo=twitter&style=for-the-badge" alt="Fredestrik" /></a> </p>
 
 <p align="center">💬 Ask me about JavaScript & TypeScript</p>
